@@ -1,5 +1,5 @@
 {
-  "name": "react-task-redux",
+  "name": "react-task-tracker-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
