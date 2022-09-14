@@ -1,4 +1,5 @@
 
+import AddTask from "./components/AddTask";
 import Header from "./components/Header";
 import ListTask from "./components/TaskList";
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
 
      <Header/>
+     <AddTask/>
      <ListTask/>
     </div>
   );
