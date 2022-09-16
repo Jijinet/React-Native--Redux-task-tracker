@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.center{
+  position:fixed;
+  top: 45%;
+  left: 45%;
+}
+
+.task-completed{
+  text-decoration: line-through;
+}
+
+.task-pending{
+}
